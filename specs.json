@@ -1,0 +1,2065 @@
+{
+  "updated_at": "2026-11-23",
+  "source": "https://dopic.app/",
+  "total_countries": 121,
+  "total_specifications": 2411,
+  "countries": [
+    {
+      "country_code": "US",
+      "country_name": "United States",
+      "total_specs": 25,
+      "primary_spec": {
+        "id": "us_passport",
+        "name": "U.S. Passport & Visa (2x2\")",
+        "width_mm": 51,
+        "height_mm": 51,
+        "width_px_300dpi": 600,
+        "height_px_300dpi": 600,
+        "dpi": 300,
+        "head_ratio": "50%-69%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/"
+    },
+    {
+      "country_code": "CN",
+      "country_name": "China",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "cn_passport_std",
+        "name": "PRC Ordinary Passport Photo",
+        "width_mm": 33,
+        "height_mm": 48,
+        "width_px_300dpi": 390,
+        "height_px_300dpi": 567,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/cn/"
+    },
+    {
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "total_specs": 21,
+      "primary_spec": {
+        "id": "vn_passport_biometric",
+        "name": "Ordinary Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/vn/"
+    },
+    {
+      "country_code": "JP",
+      "country_name": "Japan",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "jp_passport_01",
+        "name": "Japanese Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/jp/"
+    },
+    {
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "uk_passport_standard",
+        "name": "Standard Biometric Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/gb/"
+    },
+    {
+      "country_code": "DE",
+      "country_name": "Germany",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "01_passport",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/de/"
+    },
+    {
+      "country_code": "FR",
+      "country_name": "France",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "01_passport_france",
+        "name": "French Passport (ICAO Standard)",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#E5E7EB"
+      },
+      "online_generator_url": "https://dopic.app/fr/"
+    },
+    {
+      "country_code": "KR",
+      "country_name": "South Korea",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "kr_passport_2024",
+        "name": "Republic of Korea Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/kr/"
+    },
+    {
+      "country_code": "CA",
+      "country_name": "Canada",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ca_passport",
+        "name": "Canadian Passport Photo",
+        "width_mm": 50.8,
+        "height_mm": 63.5,
+        "width_px_300dpi": 600,
+        "height_px_300dpi": 750,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ca/"
+    },
+    {
+      "country_code": "AU",
+      "country_name": "Australia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "au_passport_standard",
+        "name": "Australian Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/au/"
+    },
+    {
+      "country_code": "IN",
+      "country_name": "India",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "in_passport",
+        "name": "Indian Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/in/"
+    },
+    {
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "br_passport",
+        "name": "Standard Brazilian Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/br/"
+    },
+    {
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "mx_passport",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/mx/"
+    },
+    {
+      "country_code": "ES",
+      "country_name": "Spain",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "es_passport",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/es/"
+    },
+    {
+      "country_code": "IT",
+      "country_name": "Italy",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "it_passport_new",
+        "name": "Electronic Passport (New Model)",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/it/"
+    },
+    {
+      "country_code": "RU",
+      "country_name": "Russia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ru_passport",
+        "name": "Russia International Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70% - 80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ru/"
+    },
+    {
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "id_passport_new",
+        "name": "Biometric Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/id/"
+    },
+    {
+      "country_code": "TH",
+      "country_name": "Thailand",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "02_th_passport",
+        "name": "Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/th/"
+    },
+    {
+      "country_code": "SA",
+      "country_name": "Saudi Arabia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "sa_passport",
+        "name": "Electronic Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/sa/"
+    },
+    {
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ae_passport_standard",
+        "name": "Standard Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ae/"
+    },
+    {
+      "country_code": "EG",
+      "country_name": "Egypt",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "01_eg_passport",
+        "name": "Egyptian Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/eg/"
+    },
+    {
+      "country_code": "TR",
+      "country_name": "Turkey",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "01_tckn_kimlik",
+        "name": "Turkish ID Card Photo",
+        "width_mm": 45,
+        "height_mm": 60,
+        "width_px_300dpi": 531,
+        "height_px_300dpi": 709,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/tr/"
+    },
+    {
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "nl_passport",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/nl/"
+    },
+    {
+      "country_code": "PL",
+      "country_name": "Poland",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "01_passport",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/pl/"
+    },
+    {
+      "country_code": "SG",
+      "country_name": "Singapore",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "sg_passport",
+        "name": "Singapore Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/sg/"
+    },
+    {
+      "country_code": "PH",
+      "country_name": "Philippines",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ph_passport",
+        "name": "Philippine Passport Photo",
+        "width_mm": 51,
+        "height_mm": 51,
+        "width_px_300dpi": 602,
+        "height_px_300dpi": 602,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ph/"
+    },
+    {
+      "country_code": "MY",
+      "country_name": "Malaysia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "my_passport",
+        "name": "Malaysia Passport (ICAO)",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/my/"
+    },
+    {
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ar_passport_new",
+        "name": "Photo for Biometric Passport (New Model)",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ar/"
+    },
+    {
+      "country_code": "CL",
+      "country_name": "Chile",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "cl_passport",
+        "name": "Chilean Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/cl/"
+    },
+    {
+      "country_code": "CO",
+      "country_name": "Colombia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "co_passport_infante",
+        "name": "Passport for Minors",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/co/"
+    },
+    {
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "za_passport",
+        "name": "South African Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/za/"
+    },
+    {
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ng_passport_biometric",
+        "name": "Nigeria Biometric Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ng/"
+    },
+    {
+      "country_code": "NZ",
+      "country_name": "New Zealand",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "nz_passport_standard",
+        "name": "Standard Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/nz/"
+    },
+    {
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "01_passport_se",
+        "name": "Swedish Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/se/"
+    },
+    {
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ch_passport",
+        "name": "Swiss Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ch/"
+    },
+    {
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "be_passport_standard",
+        "name": "Passport Photo (Standard)",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/be/"
+    },
+    {
+      "country_code": "AT",
+      "country_name": "Austria",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "at_passport_photo",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/at/"
+    },
+    {
+      "country_code": "NO",
+      "country_name": "Norway",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "01_passport",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/no/"
+    },
+    {
+      "country_code": "DK",
+      "country_name": "Denmark",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "dk_passport",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/dk/"
+    },
+    {
+      "country_code": "FI",
+      "country_name": "Finland",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "fi_passport",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/fi/"
+    },
+    {
+      "country_code": "IE",
+      "country_name": "Ireland",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ie_passport_standard",
+        "name": "Standard Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ie/"
+    },
+    {
+      "country_code": "PT",
+      "country_name": "Portugal",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "pt_passport_photo",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/pt/"
+    },
+    {
+      "country_code": "GR",
+      "country_name": "Greece",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "gr_passport",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/gr/"
+    },
+    {
+      "country_code": "IL",
+      "country_name": "Israel",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "il_passport",
+        "name": "Israeli Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/il/"
+    },
+    {
+      "country_code": "CZ",
+      "country_name": "Czech Republic",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "cz_passport",
+        "name": "Czech Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/cz/"
+    },
+    {
+      "country_code": "RO",
+      "country_name": "Romania",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ro_passport_new",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ro/"
+    },
+    {
+      "country_code": "HU",
+      "country_name": "Hungary",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "hu_passport",
+        "name": "Biometric Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/hu/"
+    },
+    {
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ua_passport_biometric",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ua/"
+    },
+    {
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "pk_passport_standard",
+        "name": "Standard Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/pk/"
+    },
+    {
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "bd_passport",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/bd/"
+    },
+    {
+      "country_code": "QA",
+      "country_name": "Qatar",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "qa_passport",
+        "name": "E-Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/qa/"
+    },
+    {
+      "country_code": "KW",
+      "country_name": "Kuwait",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "kw_passport",
+        "name": "E-Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/kw/"
+    },
+    {
+      "country_code": "PE",
+      "country_name": "Peru",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "pe_passport_standard",
+        "name": "Standard Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/pe/"
+    },
+    {
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ve_cedula_identidad",
+        "name": "Venezuelan ID Card",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ve/"
+    },
+    {
+      "country_code": "MA",
+      "country_name": "Morocco",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ma_passport",
+        "name": "e-Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ma/"
+    },
+    {
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ke_passport",
+        "name": "National Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ke/"
+    },
+    {
+      "country_code": "GH",
+      "country_name": "Ghana",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "gh_passport_biometric",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/gh/"
+    },
+    {
+      "country_code": "TW",
+      "country_name": "Taiwan",
+      "total_specs": 4,
+      "primary_spec": {
+        "id": "tw_passport_and_id",
+        "name": "National ID & Biometric Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "71% - 80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/tw/"
+    },
+    {
+      "country_code": "HK",
+      "country_name": "Hong Kong",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "hk_passport",
+        "name": "HKSAR Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/hk/"
+    },
+    {
+      "country_code": "MO",
+      "country_name": "Macau",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "mo_passport",
+        "name": "Macau SAR Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/mo/"
+    },
+    {
+      "country_code": "DZ",
+      "country_name": "Algeria",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "dz_passport_standard",
+        "name": "E-Passport Standard Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/dz/"
+    },
+    {
+      "country_code": "TN",
+      "country_name": "Tunisia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "tn_passport",
+        "name": "e-Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/tn/"
+    },
+    {
+      "country_code": "JO",
+      "country_name": "Jordan",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "jo_passport",
+        "name": "Electronic Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/jo/"
+    },
+    {
+      "country_code": "LB",
+      "country_name": "Lebanon",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "lb_passport_standard",
+        "name": "Biometric Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/lb/"
+    },
+    {
+      "country_code": "OM",
+      "country_name": "Oman",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "om_passport",
+        "name": "E-Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/om/"
+    },
+    {
+      "country_code": "BH",
+      "country_name": "Bahrain",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "bh_passport",
+        "name": "E-Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/bh/"
+    },
+    {
+      "country_code": "IQ",
+      "country_name": "Iraq",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "iq_passport",
+        "name": "Iraqi Biometric Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/iq/"
+    },
+    {
+      "country_code": "IR",
+      "country_name": "Iran",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ir_passport_photo",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ir/"
+    },
+    {
+      "country_code": "KZ",
+      "country_name": "Kazakhstan",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "kz_passport",
+        "name": "Kazakhstan Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70% - 80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/kz/"
+    },
+    {
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "uz_passport",
+        "name": "Passport of a Citizen of the Republic of Uzbekistan",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70% - 80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/uz/"
+    },
+    {
+      "country_code": "LK",
+      "country_name": "Sri Lanka",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "lk_passport_standard",
+        "name": "Sri Lanka Passport Photo (ICAO)",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/lk/"
+    },
+    {
+      "country_code": "NP",
+      "country_name": "Nepal",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "np_passport",
+        "name": "Nepal Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/np/"
+    },
+    {
+      "country_code": "MM",
+      "country_name": "Myanmar",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "mm_nrc_passport",
+        "name": "Myanmar Passport/ID Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/mm/"
+    },
+    {
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "kh_passport",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/kh/"
+    },
+    {
+      "country_code": "LA",
+      "country_name": "Laos",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "la_passport",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/la/"
+    },
+    {
+      "country_code": "EC",
+      "country_name": "Ecuador",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ec_passport_new",
+        "name": "Biometric Passport (New Standard)",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ec/"
+    },
+    {
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "uy_passport",
+        "name": "National Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/uy/"
+    },
+    {
+      "country_code": "PY",
+      "country_name": "Paraguay",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "py_passport_standard",
+        "name": "Ordinary Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/py/"
+    },
+    {
+      "country_code": "BO",
+      "country_name": "Bolivia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "bo_passport_new",
+        "name": "Biometric Passport Photo (New)",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/bo/"
+    },
+    {
+      "country_code": "DO",
+      "country_name": "Dominican Republic",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "do_passport_photo",
+        "name": "Biometric Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/do/"
+    },
+    {
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "cr_passport_standard",
+        "name": "Ordinary Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/cr/"
+    },
+    {
+      "country_code": "PA",
+      "country_name": "Panama",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "01_passport",
+        "name": "National Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/pa/"
+    },
+    {
+      "country_code": "GT",
+      "country_name": "Guatemala",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "gt_passport",
+        "name": "National Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/gt/"
+    },
+    {
+      "country_code": "SV",
+      "country_name": "El Salvador",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "sv_dpi_passport",
+        "name": "Passport / Digital ID (DPI)",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/sv/"
+    },
+    {
+      "country_code": "HN",
+      "country_name": "Honduras",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "hn_passport_standard",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/hn/"
+    },
+    {
+      "country_code": "NI",
+      "country_name": "Nicaragua",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ni_passport_standard",
+        "name": "Ordinary Passport (Standard ICAO)",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ni/"
+    },
+    {
+      "country_code": "SK",
+      "country_name": "Slovakia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "sk_passport_new",
+        "name": "New Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/sk/"
+    },
+    {
+      "country_code": "BG",
+      "country_name": "Bulgaria",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "bg_passport",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/bg/"
+    },
+    {
+      "country_code": "HR",
+      "country_name": "Croatia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "hr_passport",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/hr/"
+    },
+    {
+      "country_code": "RS",
+      "country_name": "Serbia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "rs_passport",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/rs/"
+    },
+    {
+      "country_code": "SI",
+      "country_name": "Slovenia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "si_passport",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/si/"
+    },
+    {
+      "country_code": "LT",
+      "country_name": "Lithuania",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "lt_passport",
+        "name": "Lithuanian Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/lt/"
+    },
+    {
+      "country_code": "LV",
+      "country_name": "Latvia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "lv_passport_new",
+        "name": "Biometric E-Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/lv/"
+    },
+    {
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ee_passport",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ee/"
+    },
+    {
+      "country_code": "CY",
+      "country_name": "Cyprus",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "cy_passport",
+        "name": "Cyprus Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/cy/"
+    },
+    {
+      "country_code": "MT",
+      "country_name": "Malta",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "mt_passport_photo",
+        "name": "Maltese Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/mt/"
+    },
+    {
+      "country_code": "IS",
+      "country_name": "Iceland",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "01_passport",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/is/"
+    },
+    {
+      "country_code": "LU",
+      "country_name": "Luxembourg",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "lu_passport_standard",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/lu/"
+    },
+    {
+      "country_code": "GE",
+      "country_name": "Georgia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ge_passport",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ge/"
+    },
+    {
+      "country_code": "AM",
+      "country_name": "Armenia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "am_passport_new",
+        "name": "Republic of Armenia Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/am/"
+    },
+    {
+      "country_code": "AZ",
+      "country_name": "Azerbaijan",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "az_passport_biometric",
+        "name": "Biometric Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/az/"
+    },
+    {
+      "country_code": "MN",
+      "country_name": "Mongolia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "mn_passport",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/mn/"
+    },
+    {
+      "country_code": "ET",
+      "country_name": "Ethiopia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "et_passport",
+        "name": "Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/et/"
+    },
+    {
+      "country_code": "TZ",
+      "country_name": "Tanzania",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "tz_passport",
+        "name": "National Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/tz/"
+    },
+    {
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ug_passport",
+        "name": "Biometric Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ug/"
+    },
+    {
+      "country_code": "CI",
+      "country_name": "Ivory Coast",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ci_passport_biometric",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ci/"
+    },
+    {
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "sn_passport",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/sn/"
+    },
+    {
+      "country_code": "CM",
+      "country_name": "Cameroon",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "cm_passport_biometric",
+        "name": "Biometric Passport (ICAO Standard)",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/cm/"
+    },
+    {
+      "country_code": "AO",
+      "country_name": "Angola",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ao_passport",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ao/"
+    },
+    {
+      "country_code": "MZ",
+      "country_name": "Mozambique",
+      "total_specs": 21,
+      "primary_spec": {
+        "id": "mz_passport",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/mz/"
+    },
+    {
+      "country_code": "EU",
+      "country_name": "European Union",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "eu_passport",
+        "name": "Biometrischer Reisepass",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/eu/"
+    },
+    {
+      "country_code": "KG",
+      "country_name": "Kyrgyzstan",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "kg_passport",
+        "name": "Kyrgyzstan Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70% - 80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/kg/"
+    },
+    {
+      "country_code": "BY",
+      "country_name": "Belarus",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "by_passport",
+        "name": "Belarus Passport (40x50mm)",
+        "width_mm": 40,
+        "height_mm": 50,
+        "width_px_300dpi": 472,
+        "height_px_300dpi": 591,
+        "dpi": 300,
+        "head_ratio": "70% - 80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/by/"
+    },
+    {
+      "country_code": "TJ",
+      "country_name": "Tajikistan",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "tj_passport_photo",
+        "name": "Photo for Foreign Passport of TJ",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/tj/"
+    },
+    {
+      "country_code": "AL",
+      "country_name": "Albania",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "al_passport",
+        "name": "Albanian Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/al/"
+    },
+    {
+      "country_code": "AF",
+      "country_name": "Afghanistan",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "af_passport",
+        "name": "Afghanistan Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/af/"
+    },
+    {
+      "country_code": "BA",
+      "country_name": "Bosnia and Herzegovina",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "ba_passport",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/ba/"
+    },
+    {
+      "country_code": "MK",
+      "country_name": "North Macedonia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "mk_passport",
+        "name": "Biometric Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/mk/"
+    },
+    {
+      "country_code": "TM",
+      "country_name": "Turkmenistan",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "tm_passport_new",
+        "name": "Turkmenistan Passport Photo",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/tm/"
+    },
+    {
+      "country_code": "SO",
+      "country_name": "Somalia",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "so_passport",
+        "name": "Somali Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/so/"
+    },
+    {
+      "country_code": "MG",
+      "country_name": "Madagascar",
+      "total_specs": 20,
+      "primary_spec": {
+        "id": "mg_passport",
+        "name": "Madagascar Passport",
+        "width_mm": 35,
+        "height_mm": 45,
+        "width_px_300dpi": 413,
+        "height_px_300dpi": 531,
+        "dpi": 300,
+        "head_ratio": "70%-80%",
+        "background_hex": "#FFFFFF"
+      },
+      "online_generator_url": "https://dopic.app/mg/"
+    }
+  ]
+}
